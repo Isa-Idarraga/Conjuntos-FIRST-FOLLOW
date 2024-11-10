@@ -1,0 +1,24 @@
+6
+5
+E TP
+P mTP e
+T FD
+D aFD e
+F cEj i
+3
+S iEtSH a
+H iS e
+E b
+2
+Q aAQ b
+A a bQA
+2
+Q Acd A
+A aA b
+2
+S iCtS iCtSeS a
+C b
+3
+S AB
+A aA a
+B bBc bc
